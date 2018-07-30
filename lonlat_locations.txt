@@ -1,0 +1,67 @@
+newyork 40.78 -73.98 New York
+melbourne -37.813611 144.963056 Melbourne
+london 51.53 0.08 London
+seattle 47.609722 -122.333056 Seattle
+losangeles 34.05 -118.25 Los Angeles
+riodj -22.908333 -43.196389 Rio de Janeiro
+singapore 1.283333 103.833333 Singapore
+auckland -36.840556 174.74 Auckland
+sydney -33.865 151.209444 Sydney
+bangkok 13.75 100.466667 Bangkok
+cairns -16.092222 145.775278 Cairns
+darwin -12.45 130.833333 Darwin
+dubai 24.95 55.333333 Dubai
+baries -34.603333 -58.381667 Buenos Aires
+igazu -25.686667 -54.444722 The Iguazu Falls
+salta -24.783333 -65.416667 Salta
+lapaz -16.5 -68.15 La Paz
+lima -12.043333 -77.028333 Lima
+toronto 43.7 -79.4 Toronto
+tenerife 28.268611 -16.605556 Tenerife
+heraklion 35.339722 25.180278 Heraklion
+split 43.538889 16.298056 Split
+deuxalpes 45.007222 6.121667 Les Deux Alpes
+valdisere 45.4506 6.9781 Val-d'Isere
+bratislava 48.143889 17.109722 Bratislava
+malta 35.883333 14.5 Malta
+tallinn 59.437222 24.745278 Tallinn
+uluru -25.345 131.036111 Uluru
+brisbane -27.466667 153.033333 Brisbane
+longreach -23.45 144.25 Longreach
+adelaide -34.929 138.601 Adelaide
+dunedin -45.866667 170.5 Dunedin
+sanfran 37.783333 -122.416667 San Francisco
+vancouver 49.25 -123.1 Vancouver
+perth -31.952222 115.858889 Perth
+MWA -26.703319 116.670815 The MWA
+detroit 42.2125 -83.353333 Detroit
+pennstate 40.849167 -77.848611 Penn State University
+changi 1.359211 103.989306 Changi
+calgary 51.05 -114.066667 Calgary
+doha 25.286667 51.533333 Doha
+pheonix 33.434167 -112.011667 Pheonix
+medhat 50.041667 -110.6775 Medicine Hat
+vienna 48.2 16.366667 Vienna
+innsbruck 47.260278 11.343889 Innsbruck
+munich 48.133333 11.566667 Munich
+thessaloniki 40.519722 22.970833 Thessaloniki
+athens 37.936389 23.947222 Athens
+mumbai 18.975 72.825833 Mumbai
+GMRT 19.096517 74.049742 GMRT
+houston 29.984444 -95.341389 Houston
+alburquerque 35.039333 -106.610778 Alburquerque
+denver 39.861667 -104.673056 Denver
+chicago 41.978611 -87.904722 Chicago
+guangzhou 23.3925 113.298889 Guangzhou
+taiwan 25.033333 121.633333 Taiwan
+hongkong 22.3 114.2 Hong Kong
+amsterdam 52.3702 4.8952 Amsterdam
+venice 45.4408 12.3155 Venice
+tokyo 35.6895 139.6917 Tokyo
+kumamoto 32.8031 130.7079 Kumamoto
+shikoku 33.7432 133.6375 Shikoku
+muscat 23.5859 58.4059 Muscat
+kathmandu 27.7172 85.3240 Kathmandu
+klumpur 3.1390 101.6869 Kuala Lumpur
+helsinki 60.1699 24.9384 Helsinki
+jakarta 6.1751 106.8650 Jakarta
